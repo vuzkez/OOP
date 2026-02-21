@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TicketLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:TicketLibrary.Ford">
+            <summary>
+            Представляет транспортное средство марки Ford
+            </summary>
+        </member>
+        <member name="M:TicketLibrary.Ford.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Инициализирует новый экземпляр класса Ford
+            </summary>
+            <param name="price">Цена за проезд между соседними станциями</param>
+            <param name="countSeats">Количество мест в транспорте</param>
+        </member>
+        <member name="T:TicketLibrary.Gaz">
+            <summary>
+            Представляет транспортное средство марки Gaz
+            </summary>
+        </member>
+        <member name="M:TicketLibrary.Gaz.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Инициализирует новый экземпляр класса Gaz
+            </summary>
+            <param name="price">Цена за проезд между соседними станциями</param>
+            <param name="countSeats">Количество мест в транспорте</param>
+        </member>
+        <member name="T:TicketLibrary.Man">
+            <summary>
+            Представляет транспортное средство марки Man
+            </summary>
+        </member>
+        <member name="M:TicketLibrary.Man.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Инициализирует новый экземпляр класса Man
+            </summary>
+            <param name="price">Цена за проезд между соседними станциями</param>
+            <param name="countSeats">Количество мест в транспорте</param>
+        </member>
+        <member name="T:TicketLibrary.Mercedes">
+            <summary>
+            Представляет транспортное средство марки Mercedes
+            </summary>
+        </member>
+        <member name="M:TicketLibrary.Mercedes.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Инициализирует новый экземпляр класса Mercedes
+            </summary>
+            <param name="price">Цена за проезд между соседними станциями</param>
+            <param name="countSeats">Количество мест в транспорте</param>
+        </member>
+        <member name="T:TicketLibrary.Ticket">
+            <summary>
+            Представляет билет на транспорт между станциями
+            </summary>
+        </member>
+        <member name="P:TicketLibrary.Ticket.From">
+            <summary>
+            Получает станцию отправления
+            </summary>
+        </member>
+        <member name="P:TicketLibrary.Ticket.To">
+            <summary>
+            Получает станцию назначения
+            </summary>
+        </member>
+        <member name="P:TicketLibrary.Ticket.Transport">
+            <summary>
+            Получает транспортное средство
+            </summary>
+        </member>
+        <member name="P:TicketLibrary.Ticket.Price">
+            <summary>
+            Получает расчетную цену билета
+            </summary>
+        </member>
+        <member name="M:TicketLibrary.Ticket.#ctor(System.String,System.String,TicketLibrary.Transport)">
+            <summary>
+            Инициализирует новый экземпляр класса Ticket
+            </summary>
+            <param name="from">Станция отправления</param>
+            <param name="to">Станция назначения</param>
+            <param name="transport">Транспортное средство</param>
+        </member>
+        <member name="M:TicketLibrary.Ticket.CalculatePrice">
+            <summary>
+            Считает цену данного билета
+            </summary>
+            <returns>Цена за транспорт и дальность дистанции</returns>
+        </member>
+        <member name="M:TicketLibrary.Ticket.GetRouteStations">
+            <summary>
+            Получает список станций маршрута между From и To
+            </summary>
+            <returns>Список станций маршрута</returns>
+        </member>
+        <member name="M:TicketLibrary.Ticket.GetSegments">
+            <summary>
+            Получает список занятых отрезков маршрута (сегментов)
+            </summary>
+            <returns>Список пар (fromIndex, toIndex)</returns>
+        </member>
+        <member name="T:TicketLibrary.TicketManager">
+            <summary>
+            Управляет продажей билетов и отслеживанием доступных мест
+            </summary>
+        </member>
+        <member name="F:TicketLibrary.TicketManager._transports">
+            <summary>
+            Список доступных транспортных средств, где ключ — имя модели транспорта.
+            </summary>
+        </member>
+        <member name="F:TicketLibrary.TicketManager._soldTickets">
+            <summary>
+            Хранит все проданные билеты.
+            </summary>
+        </member>
+        <member name="M:TicketLibrary.TicketManager.SellTicket(System.String,System.String,System.String)">
+            <summary>
+            Продает билет на указанный транспорт между станциями
+            </summary>
+        </member>
+        <member name="M:TicketLibrary.TicketManager.CanSellTicket(TicketLibrary.Ticket)">
+            <summary>
+            Проверяет можно ли продать билет с учетом занятых сегментов маршрута
+            </summary>
+        </member>
+        <member name="M:TicketLibrary.TicketManager.GetAvailableSeats(System.String,System.String,System.String)">
+            <summary>
+            Получает количество доступных мест между станциями
+            </summary>
+        </member>
+        <member name="M:TicketLibrary.TicketManager.CanSellTicketWithTempList(TicketLibrary.Ticket,System.Collections.Generic.List{TicketLibrary.Ticket})">
+            <summary>
+            Проверка продажи билета с временным списком билетов
+            </summary>
+        </member>
+        <member name="M:TicketLibrary.TicketManager.RemoveTicket(System.String,System.String,System.String)">
+            <summary>
+            Удаляет билет
+            </summary>
+        </member>
+        <member name="P:TicketLibrary.TicketManager.SoldTicketsCount">
+            <summary>
+            Количество проданных билетов
+            </summary>
+        </member>
+        <member name="M:TicketLibrary.TicketManager.GetSoldTickets">
+            <summary>
+            Возвращает список всех проданных билетов.
+            </summary>
+        </member>
+        <member name="M:TicketLibrary.TicketManager.GetTransports">
+            <summary>
+            Возвращает словарь всех транспортов.
+            </summary>
+        </member>
+        <member name="M:TicketLibrary.TicketManager.EditTicketRoute(System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Изменяет маршрут уже проданного билета, если это возможно.
+            </summary>
+            <param name="transportType">Тип транспорта.</param>
+            <param name="oldFrom">Старый пункт отправления.</param>
+            <param name="oldTo">Старый пункт назначения.</param>
+            <param name="newFrom">Новый пункт отправления.</param>
+            <param name="newTo">Новый пункт назначения.</param>
+            <returns>true — маршрут изменён; false — не удалось изменить.</returns>
+        </member>
+        <member name="M:TicketLibrary.TicketManager.EditTicketTransport(System.String,System.String,System.String,System.String)">
+            <summary>
+            Переносит билет с одного транспорта на другой (если возможно).
+            </summary>
+            <param name="oldTransportType">Название старого транспорта.</param>
+            <param name="newTransportType">Название нового транспорта.</param>
+            <param name="from">Откуда.</param>
+            <param name="to">Куда.</param>
+            <returns>true — билет перенесён; false — не удалось изменить транспорт.</returns>
+        </member>
+        <member name="T:TicketLibrary.Transport">
+            <summary>
+            Базовый класс, представляющий транспортное средство
+            </summary>
+        </member>
+        <member name="M:TicketLibrary.Transport.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Инициализирует новый экземпляр класса Transport
+            </summary>
+            <param name="price">Цена за проезд между соседними станциями</param>
+            <param name="countSeats">Количество мест в транспорте</param>
+            <exception cref="T:System.Exception">Выбрасывается, когда количество мест меньше или равно 0</exception>
+        </member>
+        <member name="P:TicketLibrary.Transport.CountSeats">
+            <summary>
+            Получает количество мест в транспорте
+            </summary>
+        </member>
+        <member name="P:TicketLibrary.Transport.Price">
+            <summary>
+            Получает цену за проезд между соседними станциями
+            </summary>
+        </member>
+    </members>
+</doc>

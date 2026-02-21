@@ -1,0 +1,6 @@
+H:\OPP\laba7\Laba7\TicketTests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_TicketTests
+H:\OPP\laba7\Laba7\TicketTests\obj\Debug\net9.0\TicketTests.csproj.AssemblyReference.cache
+H:\OPP\laba7\Laba7\TicketTests\obj\Debug\net9.0\TicketTests.GeneratedMSBuildEditorConfig.editorconfig
+H:\OPP\laba7\Laba7\TicketTests\obj\Debug\net9.0\TicketTests.AssemblyInfoInputs.cache
+H:\OPP\laba7\Laba7\TicketTests\obj\Debug\net9.0\TicketTests.AssemblyInfo.cs
+H:\OPP\laba7\Laba7\TicketTests\obj\Debug\net9.0\TicketTests.csproj.CoreCompileInputs.cache

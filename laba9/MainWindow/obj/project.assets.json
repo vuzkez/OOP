@@ -1,0 +1,123 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0-windows7.0": {
+      "MatrixExceptionsLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/MatrixExceptionsLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MatrixExceptionsLibrary.dll": {}
+        }
+      },
+      "MatrixType/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "MatrixExceptionsLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MatrixType.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MatrixType.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MatrixExceptionsLibrary/1.0.0": {
+      "type": "project",
+      "path": "../MatrixExceptions/MatrixExceptionsLibrary.csproj",
+      "msbuildProject": "../MatrixExceptions/MatrixExceptionsLibrary.csproj"
+    },
+    "MatrixType/1.0.0": {
+      "type": "project",
+      "path": "../MatrixType/MatrixType.csproj",
+      "msbuildProject": "../MatrixType/MatrixType.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0-windows7.0": [
+      "MatrixType >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\yaras\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\OPP\\laba9\\MainWindow\\MainWindow.csproj",
+      "projectName": "MainWindow",
+      "projectPath": "F:\\OPP\\laba9\\MainWindow\\MainWindow.csproj",
+      "packagesPath": "C:\\Users\\yaras\\.nuget\\packages\\",
+      "outputPath": "F:\\OPP\\laba9\\MainWindow\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\yaras\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "projectReferences": {
+            "F:\\OPP\\laba9\\MatrixType\\MatrixType.csproj": {
+              "projectPath": "F:\\OPP\\laba9\\MatrixType\\MatrixType.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0-windows7.0": {
+        "targetAlias": "net9.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TxtReaderFigures/1.0.0": {
+        "dependencies": {
+          "FiguresLibrary": "1.0.0"
+        },
+        "runtime": {
+          "TxtReaderFigures.dll": {}
+        }
+      },
+      "FiguresLibrary/1.0.0": {
+        "runtime": {
+          "FiguresLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TxtReaderFigures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FiguresLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

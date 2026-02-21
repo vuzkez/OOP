@@ -1,0 +1,395 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\OPP\\laba7\\Laba7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F04567AD-1196-43A9-A058-76C4BA39B220}|TicketApp\\TicketApp.csproj|f:\\opp\\laba7\\laba7\\ticketapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04567AD-1196-43A9-A058-76C4BA39B220}|TicketApp\\TicketApp.csproj|solutionrelative:ticketapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACBF1EA-E1D5-49AE-AC89-E86590E93892}|TicketLibrary\\TicketLibrary.csproj|f:\\opp\\laba7\\laba7\\ticketlibrary\\ticketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACBF1EA-E1D5-49AE-AC89-E86590E93892}|TicketLibrary\\TicketLibrary.csproj|solutionrelative:ticketlibrary\\ticketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACBF1EA-E1D5-49AE-AC89-E86590E93892}|TicketLibrary\\TicketLibrary.csproj|f:\\opp\\laba7\\laba7\\ticketlibrary\\ford.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACBF1EA-E1D5-49AE-AC89-E86590E93892}|TicketLibrary\\TicketLibrary.csproj|solutionrelative:ticketlibrary\\ford.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACBF1EA-E1D5-49AE-AC89-E86590E93892}|TicketLibrary\\TicketLibrary.csproj|f:\\opp\\laba7\\laba7\\ticketlibrary\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACBF1EA-E1D5-49AE-AC89-E86590E93892}|TicketLibrary\\TicketLibrary.csproj|solutionrelative:ticketlibrary\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACBF1EA-E1D5-49AE-AC89-E86590E93892}|TicketLibrary\\TicketLibrary.csproj|f:\\opp\\laba7\\laba7\\ticketlibrary\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACBF1EA-E1D5-49AE-AC89-E86590E93892}|TicketLibrary\\TicketLibrary.csproj|solutionrelative:ticketlibrary\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04567AD-1196-43A9-A058-76C4BA39B220}|TicketApp\\TicketApp.csproj|f:\\opp\\laba7\\laba7\\ticketapp\\edittransportdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04567AD-1196-43A9-A058-76C4BA39B220}|TicketApp\\TicketApp.csproj|solutionrelative:ticketapp\\edittransportdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04567AD-1196-43A9-A058-76C4BA39B220}|TicketApp\\TicketApp.csproj|f:\\opp\\laba7\\laba7\\ticketapp\\edittransportdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F04567AD-1196-43A9-A058-76C4BA39B220}|TicketApp\\TicketApp.csproj|solutionrelative:ticketapp\\edittransportdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04567AD-1196-43A9-A058-76C4BA39B220}|TicketApp\\TicketApp.csproj|f:\\opp\\laba7\\laba7\\ticketapp\\editroutedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04567AD-1196-43A9-A058-76C4BA39B220}|TicketApp\\TicketApp.csproj|solutionrelative:ticketapp\\editroutedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04567AD-1196-43A9-A058-76C4BA39B220}|TicketApp\\TicketApp.csproj|f:\\opp\\laba7\\laba7\\ticketapp\\editroutedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F04567AD-1196-43A9-A058-76C4BA39B220}|TicketApp\\TicketApp.csproj|solutionrelative:ticketapp\\editroutedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04567AD-1196-43A9-A058-76C4BA39B220}|TicketApp\\TicketApp.csproj|f:\\opp\\laba7\\laba7\\ticketapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F04567AD-1196-43A9-A058-76C4BA39B220}|TicketApp\\TicketApp.csproj|solutionrelative:ticketapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04567AD-1196-43A9-A058-76C4BA39B220}|TicketApp\\TicketApp.csproj|f:\\opp\\laba7\\laba7\\ticketapp\\availablerouteswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F04567AD-1196-43A9-A058-76C4BA39B220}|TicketApp\\TicketApp.csproj|solutionrelative:ticketapp\\availablerouteswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04567AD-1196-43A9-A058-76C4BA39B220}|TicketApp\\TicketApp.csproj|f:\\opp\\laba7\\laba7\\ticketapp\\availablerouteswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04567AD-1196-43A9-A058-76C4BA39B220}|TicketApp\\TicketApp.csproj|solutionrelative:ticketapp\\availablerouteswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACBF1EA-E1D5-49AE-AC89-E86590E93892}|TicketLibrary\\TicketLibrary.csproj|f:\\opp\\laba7\\laba7\\ticketlibrary\\gaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACBF1EA-E1D5-49AE-AC89-E86590E93892}|TicketLibrary\\TicketLibrary.csproj|solutionrelative:ticketlibrary\\gaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACBF1EA-E1D5-49AE-AC89-E86590E93892}|TicketLibrary\\TicketLibrary.csproj|f:\\opp\\laba7\\laba7\\ticketlibrary\\man.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACBF1EA-E1D5-49AE-AC89-E86590E93892}|TicketLibrary\\TicketLibrary.csproj|solutionrelative:ticketlibrary\\man.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED75349-E040-4C98-864D-31E5CE306809}|TicketTests\\TicketTests.csproj|f:\\opp\\laba7\\laba7\\tickettests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED75349-E040-4C98-864D-31E5CE306809}|TicketTests\\TicketTests.csproj|solutionrelative:tickettests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACBF1EA-E1D5-49AE-AC89-E86590E93892}|TicketLibrary\\TicketLibrary.csproj|f:\\opp\\laba7\\laba7\\ticketlibrary\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACBF1EA-E1D5-49AE-AC89-E86590E93892}|TicketLibrary\\TicketLibrary.csproj|solutionrelative:ticketlibrary\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED75349-E040-4C98-864D-31E5CE306809}|TicketTests\\TicketTests.csproj|f:\\opp\\laba7\\laba7\\tickettests\\tickettests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4ED75349-E040-4C98-864D-31E5CE306809}|TicketTests\\TicketTests.csproj|solutionrelative:tickettests\\tickettests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACBF1EA-E1D5-49AE-AC89-E86590E93892}|TicketLibrary\\TicketLibrary.csproj|f:\\opp\\laba7\\laba7\\ticketlibrary\\ticketlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DACBF1EA-E1D5-49AE-AC89-E86590E93892}|TicketLibrary\\TicketLibrary.csproj|solutionrelative:ticketlibrary\\ticketlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACBF1EA-E1D5-49AE-AC89-E86590E93892}|TicketLibrary\\TicketLibrary.csproj|f:\\opp\\laba7\\laba7\\ticketlibrary\\ticketlibrary.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DACBF1EA-E1D5-49AE-AC89-E86590E93892}|TicketLibrary\\TicketLibrary.csproj|solutionrelative:ticketlibrary\\ticketlibrary.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED75349-E040-4C98-864D-31E5CE306809}|TicketTests\\TicketTests.csproj|f:\\opp\\laba7\\laba7\\tickettests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED75349-E040-4C98-864D-31E5CE306809}|TicketTests\\TicketTests.csproj|solutionrelative:tickettests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04567AD-1196-43A9-A058-76C4BA39B220}|TicketApp\\TicketApp.csproj|f:\\opp\\laba7\\laba7\\ticketapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F04567AD-1196-43A9-A058-76C4BA39B220}|TicketApp\\TicketApp.csproj|solutionrelative:ticketapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04567AD-1196-43A9-A058-76C4BA39B220}|TicketApp\\TicketApp.csproj|f:\\opp\\laba7\\laba7\\ticketapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04567AD-1196-43A9-A058-76C4BA39B220}|TicketApp\\TicketApp.csproj|solutionrelative:ticketapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditTransportDialog.xaml.cs",
+              "DocumentMoniker": "F:\\OPP\\laba7\\Laba7\\TicketApp\\EditTransportDialog.xaml.cs",
+              "RelativeDocumentMoniker": "TicketApp\\EditTransportDialog.xaml.cs",
+              "ToolTip": "F:\\OPP\\laba7\\Laba7\\TicketApp\\EditTransportDialog.xaml.cs",
+              "RelativeToolTip": "TicketApp\\EditTransportDialog.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T13:23:44.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditTransportDialog.xaml",
+              "DocumentMoniker": "F:\\OPP\\laba7\\Laba7\\TicketApp\\EditTransportDialog.xaml",
+              "RelativeDocumentMoniker": "TicketApp\\EditTransportDialog.xaml",
+              "ToolTip": "F:\\OPP\\laba7\\Laba7\\TicketApp\\EditTransportDialog.xaml",
+              "RelativeToolTip": "TicketApp\\EditTransportDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-22T13:23:32.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditRouteDialog.xaml.cs",
+              "DocumentMoniker": "F:\\OPP\\laba7\\Laba7\\TicketApp\\EditRouteDialog.xaml.cs",
+              "RelativeDocumentMoniker": "TicketApp\\EditRouteDialog.xaml.cs",
+              "ToolTip": "F:\\OPP\\laba7\\Laba7\\TicketApp\\EditRouteDialog.xaml.cs",
+              "RelativeToolTip": "TicketApp\\EditRouteDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T13:23:01.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditRouteDialog.xaml",
+              "DocumentMoniker": "F:\\OPP\\laba7\\Laba7\\TicketApp\\EditRouteDialog.xaml",
+              "RelativeDocumentMoniker": "TicketApp\\EditRouteDialog.xaml",
+              "ToolTip": "F:\\OPP\\laba7\\Laba7\\TicketApp\\EditRouteDialog.xaml",
+              "RelativeToolTip": "TicketApp\\EditRouteDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-22T13:22:34.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AvailableRoutesWindow.xaml.cs",
+              "DocumentMoniker": "F:\\OPP\\laba7\\Laba7\\TicketApp\\AvailableRoutesWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TicketApp\\AvailableRoutesWindow.xaml.cs",
+              "ToolTip": "F:\\OPP\\laba7\\Laba7\\TicketApp\\AvailableRoutesWindow.xaml.cs",
+              "RelativeToolTip": "TicketApp\\AvailableRoutesWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T13:13:58.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AvailableRoutesWindow.xaml",
+              "DocumentMoniker": "F:\\OPP\\laba7\\Laba7\\TicketApp\\AvailableRoutesWindow.xaml",
+              "RelativeDocumentMoniker": "TicketApp\\AvailableRoutesWindow.xaml",
+              "ToolTip": "F:\\OPP\\laba7\\Laba7\\TicketApp\\AvailableRoutesWindow.xaml",
+              "RelativeToolTip": "TicketApp\\AvailableRoutesWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-22T13:13:16.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAawIwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-16T13:50:34.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TicketLibrary",
+              "DocumentMoniker": "F:\\OPP\\laba7\\Laba7\\TicketLibrary\\TicketLibrary.csproj",
+              "RelativeDocumentMoniker": "TicketLibrary\\TicketLibrary.csproj",
+              "ToolTip": "F:\\OPP\\laba7\\Laba7\\TicketLibrary\\TicketLibrary.csproj",
+              "RelativeToolTip": "TicketLibrary\\TicketLibrary.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T13:49:39.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TicketLibrary.csproj",
+              "DocumentMoniker": "F:\\OPP\\laba7\\Laba7\\TicketLibrary\\TicketLibrary.csproj",
+              "RelativeDocumentMoniker": "TicketLibrary\\TicketLibrary.csproj",
+              "ToolTip": "F:\\OPP\\laba7\\Laba7\\TicketLibrary\\TicketLibrary.csproj",
+              "RelativeToolTip": "TicketLibrary\\TicketLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T13:45:34.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TicketTests.csproj",
+              "DocumentMoniker": "F:\\OPP\\laba7\\Laba7\\TicketTests\\TicketTests.csproj",
+              "RelativeDocumentMoniker": "TicketTests\\TicketTests.csproj",
+              "ToolTip": "F:\\OPP\\laba7\\Laba7\\TicketTests\\TicketTests.csproj",
+              "RelativeToolTip": "TicketTests\\TicketTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T13:44:45.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAE0HAAAAAAAAAIAwwGEHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-16T13:45:02.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "F:\\OPP\\laba7\\Laba7\\TicketTests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "TicketTests\\MSTestSettings.cs",
+              "ToolTip": "F:\\OPP\\laba7\\Laba7\\TicketTests\\MSTestSettings.cs",
+              "RelativeToolTip": "TicketTests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T13:41:55.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "F:\\OPP\\laba7\\Laba7\\TicketTests\\Tests.cs",
+              "RelativeDocumentMoniker": "TicketTests\\Tests.cs",
+              "ToolTip": "F:\\OPP\\laba7\\Laba7\\TicketTests\\Tests.cs",
+              "RelativeToolTip": "TicketTests\\Tests.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwIUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T13:41:53.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "F:\\OPP\\laba7\\Laba7\\TicketApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TicketApp\\App.xaml.cs",
+              "ToolTip": "F:\\OPP\\laba7\\Laba7\\TicketApp\\App.xaml.cs",
+              "RelativeToolTip": "TicketApp\\App.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T13:38:37.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.xaml",
+              "DocumentMoniker": "F:\\OPP\\laba7\\Laba7\\TicketApp\\App.xaml",
+              "RelativeDocumentMoniker": "TicketApp\\App.xaml",
+              "ToolTip": "F:\\OPP\\laba7\\Laba7\\TicketApp\\App.xaml",
+              "RelativeToolTip": "TicketApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-16T13:38:28.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketManager.cs",
+              "DocumentMoniker": "F:\\OPP\\laba7\\Laba7\\TicketLibrary\\TicketManager.cs",
+              "RelativeDocumentMoniker": "TicketLibrary\\TicketManager.cs",
+              "ToolTip": "F:\\OPP\\laba7\\Laba7\\TicketLibrary\\TicketManager.cs",
+              "RelativeToolTip": "TicketLibrary\\TicketManager.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAqwN8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T17:52:50.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "F:\\OPP\\laba7\\Laba7\\TicketLibrary\\Ticket.cs",
+              "RelativeDocumentMoniker": "TicketLibrary\\Ticket.cs",
+              "ToolTip": "F:\\OPP\\laba7\\Laba7\\TicketLibrary\\Ticket.cs",
+              "RelativeToolTip": "TicketLibrary\\Ticket.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T07:26:40.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transport.cs",
+              "DocumentMoniker": "F:\\OPP\\laba7\\Laba7\\TicketLibrary\\Transport.cs",
+              "RelativeDocumentMoniker": "TicketLibrary\\Transport.cs",
+              "ToolTip": "F:\\OPP\\laba7\\Laba7\\TicketLibrary\\Transport.cs",
+              "RelativeToolTip": "TicketLibrary\\Transport.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T07:29:38.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Gaz.cs",
+              "DocumentMoniker": "F:\\OPP\\laba7\\Laba7\\TicketLibrary\\Gaz.cs",
+              "RelativeDocumentMoniker": "TicketLibrary\\Gaz.cs",
+              "ToolTip": "F:\\OPP\\laba7\\Laba7\\TicketLibrary\\Gaz.cs",
+              "RelativeToolTip": "TicketLibrary\\Gaz.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T07:24:02.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ford.cs",
+              "DocumentMoniker": "F:\\OPP\\laba7\\Laba7\\TicketLibrary\\Ford.cs",
+              "RelativeDocumentMoniker": "TicketLibrary\\Ford.cs",
+              "ToolTip": "F:\\OPP\\laba7\\Laba7\\TicketLibrary\\Ford.cs",
+              "RelativeToolTip": "TicketLibrary\\Ford.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T07:23:23.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Mercedes.cs",
+              "DocumentMoniker": "F:\\OPP\\laba7\\Laba7\\TicketLibrary\\Mercedes.cs",
+              "RelativeDocumentMoniker": "TicketLibrary\\Mercedes.cs",
+              "ToolTip": "F:\\OPP\\laba7\\Laba7\\TicketLibrary\\Mercedes.cs",
+              "RelativeToolTip": "TicketLibrary\\Mercedes.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T07:22:51.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Man.cs",
+              "DocumentMoniker": "F:\\OPP\\laba7\\Laba7\\TicketLibrary\\Man.cs",
+              "RelativeDocumentMoniker": "TicketLibrary\\Man.cs",
+              "ToolTip": "F:\\OPP\\laba7\\Laba7\\TicketLibrary\\Man.cs",
+              "RelativeToolTip": "TicketLibrary\\Man.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T07:14:32.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\OPP\\laba7\\Laba7\\TicketApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TicketApp\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\OPP\\laba7\\Laba7\\TicketApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TicketApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwNYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:55:19.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\OPP\\laba7\\Laba7\\TicketApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TicketApp\\MainWindow.xaml",
+              "ToolTip": "F:\\OPP\\laba7\\Laba7\\TicketApp\\MainWindow.xaml",
+              "RelativeToolTip": "TicketApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-10T16:54:51.448Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

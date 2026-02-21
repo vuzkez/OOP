@@ -1,0 +1,46 @@
+﻿<Window x:Class="FiguresApp.AddFigureDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Добавить фигуру" Height="400" Width="300"
+        WindowStartupLocation="CenterOwner">
+    <StackPanel Margin="15">
+        <TextBlock Text="Тип фигуры:" FontWeight="Bold"/>
+        <ComboBox x:Name="TypeComboBox" SelectionChanged="TypeComboBox_SelectionChanged" Margin="0,5,0,10"/>
+
+        <TextBlock Text="Цвет:" FontWeight="Bold"/>
+        <TextBox x:Name="ColorTextBox" Text="Black" Margin="0,5,0,10"/>
+
+        <!-- Панель для окружности -->
+        <StackPanel x:Name="CirclePanel">
+            <TextBlock Text="Центр окружности:" FontWeight="Bold"/>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="X:" Width="20"/>
+                <TextBox x:Name="CenterXTextBox" Text="0" Width="50"/>
+                <TextBlock Text="Y:" Width="20" Margin="10,0,0,0"/>
+                <TextBox x:Name="CenterYTextBox" Text="0" Width="50"/>
+            </StackPanel>
+
+            <TextBlock Text="Точка на окружности:" FontWeight="Bold" Margin="0,10,0,0"/>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="X:" Width="20"/>
+                <TextBox x:Name="EdgeXTextBox" Text="5" Width="50"/>
+                <TextBlock Text="Y:" Width="20" Margin="10,0,0,0"/>
+                <TextBox x:Name="EdgeYTextBox" Text="0" Width="50"/>
+            </StackPanel>
+        </StackPanel>
+
+        <!-- Панель для многоугольника -->
+        <StackPanel x:Name="PolygonPanel" Visibility="Collapsed">
+            <TextBlock Text="Длина стороны:" FontWeight="Bold"/>
+            <TextBox x:Name="SideLengthTextBox" Text="5" Margin="0,5,0,10"/>
+
+            <TextBlock Text="Количество сторон:" FontWeight="Bold"/>
+            <TextBox x:Name="SidesCountTextBox" Text="4" Margin="0,5,0,10"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,20,0,0">
+            <Button x:Name="OkButton" Content="OK" Click="OkButton_Click" Width="60" Height="25"/>
+            <Button x:Name="CancelButton" Content="Отмена" Click="CancelButton_Click" Width="60" Height="25" Margin="10,0,0,0"/>
+        </StackPanel>
+    </StackPanel>
+</Window>

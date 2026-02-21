@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MainWindow/1.0.0": {
+        "dependencies": {
+          "MatrixType": "1.0.0"
+        },
+        "runtime": {
+          "MainWindow.dll": {}
+        }
+      },
+      "MatrixExceptionsLibrary/1.0.0": {
+        "runtime": {
+          "MatrixExceptionsLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MatrixType/1.0.0": {
+        "dependencies": {
+          "MatrixExceptionsLibrary": "1.0.0"
+        },
+        "runtime": {
+          "MatrixType.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MainWindow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MatrixExceptionsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MatrixType/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FiguresLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:FiguresLibrary.Circle">
+            <summary>
+            Класс окружности
+            </summary>
+        </member>
+        <member name="F:FiguresLibrary.Circle._radius">
+            <summary>
+            Радиус окружности
+            </summary>
+        </member>
+        <member name="F:FiguresLibrary.Circle._edgePoint">
+            <summary>
+            Точка на окружности
+            </summary>
+        </member>
+        <member name="F:FiguresLibrary.Circle._centerPoint">
+            <summary>
+            Центр окружности
+            </summary>
+        </member>
+        <member name="M:FiguresLibrary.Circle.#ctor(System.String,System.String,FiguresLibrary.Point,FiguresLibrary.Point)">
+            <summary>
+            Конструктор окружности
+            </summary>
+            <param name="typeFigure">Тип фигуры</param>
+            <param name="colorFigure">Цвет фигуры</param>
+            <param name="centerPoint">Центр окружности</param>
+            <param name="edgePoint">Точка на окружности</param>
+        </member>
+        <member name="M:FiguresLibrary.Circle.GetArea">
+            <summary>
+            Вычисляет площадь окружности
+            </summary>
+            <returns>Площадь окружности</returns>
+        </member>
+        <member name="M:FiguresLibrary.Circle.GetLength">
+            <summary>
+            Вычисляет длину окружности
+            </summary>
+            <returns>Длина окружности</returns>
+        </member>
+        <member name="M:FiguresLibrary.Circle.IsInFirstQuarter">
+            <summary>
+            Проверяет находится ли окружность в первой четверти координатной плоскости
+            </summary>
+            <returns>True если окружность в первой четверти</returns>
+        </member>
+        <member name="M:FiguresLibrary.Circle.GetInfo">
+            <summary>
+            Возвращает информацию об окружности
+            </summary>
+            <returns>Строка с информацией об окружности</returns>
+        </member>
+        <member name="M:FiguresLibrary.Circle.CompareTo(FiguresLibrary.Circle)">
+            <summary>
+            Сравнивает окружности по площади
+            </summary>
+            <param name="circle">Окружность для сравнения</param>
+            <returns>Результат сравнения</returns>
+        </member>
+        <member name="M:FiguresLibrary.Circle.GetCenter">
+            <summary>
+            Возвращает центр окружности
+            </summary>
+            <returns>Точка центра окружности</returns>
+        </member>
+        <member name="M:FiguresLibrary.Circle.GetEdgePoint">
+            <summary>
+            Возвращает точку на окружности
+            </summary>
+            <returns>Точка на окружности</returns>
+        </member>
+        <member name="T:FiguresLibrary.Figure">
+            <summary>
+            Абстрактный базовый класс для геометрических фигур
+            </summary>
+        </member>
+        <member name="M:FiguresLibrary.Figure.#ctor(System.String,System.String)">
+            <summary>
+            Конструктор базового класса фигуры
+            </summary>
+            <param name="typeFigure">Тип фигуры</param>
+            <param name="colorFigure">Цвет фигуры</param>
+        </member>
+        <member name="M:FiguresLibrary.Figure.GetArea">
+            <summary>
+            Вычисляет площадь фигуры
+            </summary>
+            <returns>Площадь фигуры</returns>
+        </member>
+        <member name="M:FiguresLibrary.Figure.GetInfo">
+            <summary>
+            Возвращает информацию о фигуре
+            </summary>
+            <returns>Строка с информацией о фигуре</returns>
+        </member>
+        <member name="P:FiguresLibrary.Figure.TypeFigure">
+            <summary>
+            Тип фигуры
+            </summary>
+        </member>
+        <member name="P:FiguresLibrary.Figure.ColorFigure">
+            <summary>
+            Цвет фигуры
+            </summary>
+        </member>
+        <member name="T:FiguresLibrary.ManagerFigures">
+            <summary>
+            Класс для работы с коллекцией фигур
+            </summary>
+        </member>
+        <member name="F:FiguresLibrary.ManagerFigures.figures">
+            <summary>
+            Список фигур
+            </summary>
+        </member>
+        <member name="M:FiguresLibrary.ManagerFigures.#ctor(System.String)">
+            <summary>
+            Загружает фигуры из файла
+            </summary>
+            <param name="path">Путь к файлу с данными фигур</param>
+        </member>
+        <member name="T:FiguresLibrary.Point">
+            <summary>
+            Класс точки в двумерном пространстве
+            </summary>
+        </member>
+        <member name="P:FiguresLibrary.Point.x">
+            <summary>
+            Координата X точки
+            </summary>
+        </member>
+        <member name="P:FiguresLibrary.Point.y">
+            <summary>
+            Координата Y точки
+            </summary>
+        </member>
+        <member name="M:FiguresLibrary.Point.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Конструктор точки
+            </summary>
+            <param name="x">Координата X</param>
+            <param name="y">Координата Y</param>
+        </member>
+        <member name="T:FiguresLibrary.RegularPolygons">
+            <summary>
+            Класс правильного многоугольника
+            </summary>
+        </member>
+        <member name="F:FiguresLibrary.RegularPolygons._sides">
+            <summary>
+            Массив сторон многоугольника
+            </summary>
+        </member>
+        <member name="M:FiguresLibrary.RegularPolygons.#ctor(System.String,System.String,System.Int32[])">
+            <summary>
+            Конструктор правильного многоугольника
+            </summary>
+            <param name="typeFigure">Тип фигуры</param>
+            <param name="colorFigure">Цвет фигуры</param>
+            <param name="sides">Массив сторон многоугольника</param>
+        </member>
+        <member name="M:FiguresLibrary.RegularPolygons.GetArea">
+            <summary>
+            Вычисляет площадь правильного многоугольника
+            </summary>
+            <returns>Площадь многоугольника</returns>
+        </member>
+        <member name="M:FiguresLibrary.RegularPolygons.GetInfo">
+            <summary>
+            Возвращает информацию о многоугольнике
+            </summary>
+            <returns>Строка с информацией о многоугольнике</returns>
+        </member>
+        <member name="M:FiguresLibrary.RegularPolygons.CompareTo(FiguresLibrary.RegularPolygons)">
+            <summary>
+            Сравнивает многоугольники по площади
+            </summary>
+            <param name="regularPolygons">Многоугольник для сравнения</param>
+            <returns>Результат сравнения</returns>
+        </member>
+        <member name="M:FiguresLibrary.RegularPolygons.GetTypeFigure">
+            <summary>
+            Определяет тип фигуры на основе количества сторон
+            </summary>
+            <returns>Название типа фигуры</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,20 @@
+﻿<Window x:Class="FiguresApp.FindFigureDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Найти и удалить фигуру" Height="200" Width="300"
+        WindowStartupLocation="CenterOwner">
+    <StackPanel Margin="15">
+        <TextBlock Text="Тип фигуры:" FontWeight="Bold"/>
+        <TextBox x:Name="TypeTextBox" Text="окружность" Margin="0,5,0,10"/>
+
+        <TextBlock Text="Цвет:" FontWeight="Bold"/>
+        <TextBox x:Name="ColorTextBox" Text="red" Margin="0,5,0,20"/>
+
+        <TextBlock Text="Будет удалена первая найденная фигура" FontStyle="Italic" Foreground="Gray" Margin="0,0,0,10"/>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button x:Name="OkButton" Content="Найти и удалить" Click="OkButton_Click" Width="100" Height="25"/>
+            <Button x:Name="CancelButton" Content="Отмена" Click="CancelButton_Click" Width="60" Height="25" Margin="10,0,0,0"/>
+        </StackPanel>
+    </StackPanel>
+</Window>

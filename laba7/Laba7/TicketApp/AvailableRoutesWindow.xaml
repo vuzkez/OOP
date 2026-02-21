@@ -1,0 +1,21 @@
+﻿<Window x:Class="TicketApp.AvailableRoutesWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Доступные маршруты"
+        Width="600" Height="450"
+        WindowStartupLocation="CenterOwner">
+
+    <Grid Margin="10">
+        <DataGrid x:Name="dgRoutes"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False"
+                  IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Транспорт" Binding="{Binding TransportName}" Width="*"/>
+                <DataGridTextColumn Header="Откуда" Binding="{Binding From}" Width="*"/>
+                <DataGridTextColumn Header="Куда" Binding="{Binding To}" Width="*"/>
+                <DataGridTextColumn Header="Свободно мест" Binding="{Binding Available}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

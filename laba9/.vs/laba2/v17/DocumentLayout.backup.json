@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\OPP\\laba9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B70E3D7D-6A19-4A00-BA72-B552494A08F1}|MatrixTypeTests\\MatrixTypeTests.csproj|f:\\opp\\laba9\\matrixtypetests\\matrixtypetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B70E3D7D-6A19-4A00-BA72-B552494A08F1}|MatrixTypeTests\\MatrixTypeTests.csproj|solutionrelative:matrixtypetests\\matrixtypetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8DBA90-EB0D-4C13-AE4A-762CAA60C2B2}|MainWindow\\MainWindow.csproj|f:\\opp\\laba9\\mainwindow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8DBA90-EB0D-4C13-AE4A-762CAA60C2B2}|MainWindow\\MainWindow.csproj|solutionrelative:mainwindow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66248B6A-5B7F-492F-9E23-07E35366AEF9}|MatrixExceptions\\MatrixExceptionsLibrary.csproj|f:\\opp\\laba9\\matrixexceptions\\matrixsizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66248B6A-5B7F-492F-9E23-07E35366AEF9}|MatrixExceptions\\MatrixExceptionsLibrary.csproj|solutionrelative:matrixexceptions\\matrixsizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66248B6A-5B7F-492F-9E23-07E35366AEF9}|MatrixExceptions\\MatrixExceptionsLibrary.csproj|f:\\opp\\laba9\\matrixexceptions\\matrixnullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66248B6A-5B7F-492F-9E23-07E35366AEF9}|MatrixExceptions\\MatrixExceptionsLibrary.csproj|solutionrelative:matrixexceptions\\matrixnullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66248B6A-5B7F-492F-9E23-07E35366AEF9}|MatrixExceptions\\MatrixExceptionsLibrary.csproj|f:\\opp\\laba9\\matrixexceptions\\matrixindexoutofrangeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66248B6A-5B7F-492F-9E23-07E35366AEF9}|MatrixExceptions\\MatrixExceptionsLibrary.csproj|solutionrelative:matrixexceptions\\matrixindexoutofrangeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66248B6A-5B7F-492F-9E23-07E35366AEF9}|MatrixExceptions\\MatrixExceptionsLibrary.csproj|f:\\opp\\laba9\\matrixexceptions\\matrixexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66248B6A-5B7F-492F-9E23-07E35366AEF9}|MatrixExceptions\\MatrixExceptionsLibrary.csproj|solutionrelative:matrixexceptions\\matrixexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500142AD-8679-48D5-9413-1E08343E8F73}|MatrixType\\MatrixType.csproj|f:\\opp\\laba9\\matrixtype\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500142AD-8679-48D5-9413-1E08343E8F73}|MatrixType\\MatrixType.csproj|solutionrelative:matrixtype\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8DBA90-EB0D-4C13-AE4A-762CAA60C2B2}|MainWindow\\MainWindow.csproj|f:\\opp\\laba9\\mainwindow\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8DBA90-EB0D-4C13-AE4A-762CAA60C2B2}|MainWindow\\MainWindow.csproj|solutionrelative:mainwindow\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8DBA90-EB0D-4C13-AE4A-762CAA60C2B2}|MainWindow\\MainWindow.csproj|f:\\opp\\laba9\\mainwindow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8DBA90-EB0D-4C13-AE4A-762CAA60C2B2}|MainWindow\\MainWindow.csproj|solutionrelative:mainwindow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8DBA90-EB0D-4C13-AE4A-762CAA60C2B2}|MainWindow\\MainWindow.csproj|F:\\OPP\\laba9\\mainwindow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC8DBA90-EB0D-4C13-AE4A-762CAA60C2B2}|MainWindow\\MainWindow.csproj|solutionrelative:mainwindow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8DBA90-EB0D-4C13-AE4A-762CAA60C2B2}|MainWindow\\MainWindow.csproj|f:\\opp\\laba9\\mainwindow\\mainwindow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC8DBA90-EB0D-4C13-AE4A-762CAA60C2B2}|MainWindow\\MainWindow.csproj|solutionrelative:mainwindow\\mainwindow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70E3D7D-6A19-4A00-BA72-B552494A08F1}|MatrixTypeTests\\MatrixTypeTests.csproj|f:\\opp\\laba9\\matrixtypetests\\typetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70E3D7D-6A19-4A00-BA72-B552494A08F1}|MatrixTypeTests\\MatrixTypeTests.csproj|solutionrelative:matrixtypetests\\typetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatrixTypeTests.csproj",
+              "DocumentMoniker": "F:\\OPP\\laba9\\MatrixTypeTests\\MatrixTypeTests.csproj",
+              "RelativeDocumentMoniker": "MatrixTypeTests\\MatrixTypeTests.csproj",
+              "ToolTip": "F:\\OPP\\laba9\\MatrixTypeTests\\MatrixTypeTests.csproj",
+              "RelativeToolTip": "MatrixTypeTests\\MatrixTypeTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T07:58:27.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\OPP\\laba9\\MainWindow\\Program.cs",
+              "RelativeDocumentMoniker": "MainWindow\\Program.cs",
+              "ToolTip": "F:\\OPP\\laba9\\MainWindow\\Program.cs",
+              "RelativeToolTip": "MainWindow\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T07:05:22.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatrixIndexOutOfRangeException.cs",
+              "DocumentMoniker": "F:\\OPP\\laba9\\MatrixExceptions\\MatrixIndexOutOfRangeException.cs",
+              "RelativeDocumentMoniker": "MatrixExceptions\\MatrixIndexOutOfRangeException.cs",
+              "ToolTip": "F:\\OPP\\laba9\\MatrixExceptions\\MatrixIndexOutOfRangeException.cs",
+              "RelativeToolTip": "MatrixExceptions\\MatrixIndexOutOfRangeException.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T07:03:09.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MatrixSizeException.cs",
+              "DocumentMoniker": "F:\\OPP\\laba9\\MatrixExceptions\\MatrixSizeException.cs",
+              "RelativeDocumentMoniker": "MatrixExceptions\\MatrixSizeException.cs",
+              "ToolTip": "F:\\OPP\\laba9\\MatrixExceptions\\MatrixSizeException.cs",
+              "RelativeToolTip": "MatrixExceptions\\MatrixSizeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T07:02:21.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MatrixNullException.cs",
+              "DocumentMoniker": "F:\\OPP\\laba9\\MatrixExceptions\\MatrixNullException.cs",
+              "RelativeDocumentMoniker": "MatrixExceptions\\MatrixNullException.cs",
+              "ToolTip": "F:\\OPP\\laba9\\MatrixExceptions\\MatrixNullException.cs",
+              "RelativeToolTip": "MatrixExceptions\\MatrixNullException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T07:01:47.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.csproj",
+              "DocumentMoniker": "F:\\OPP\\laba9\\MainWindow\\MainWindow.csproj",
+              "RelativeDocumentMoniker": "MainWindow\\MainWindow.csproj",
+              "ToolTip": "F:\\OPP\\laba9\\MainWindow\\MainWindow.csproj",
+              "RelativeToolTip": "MainWindow\\MainWindow.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-08T16:52:23.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\OPP\\laba9\\MainWindow\\Form1.cs",
+              "RelativeDocumentMoniker": "MainWindow\\Form1.cs",
+              "ToolTip": "F:\\OPP\\laba9\\MainWindow\\Form1.cs",
+              "RelativeToolTip": "MainWindow\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T16:49:01.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\OPP\\laba9\\MainWindow\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MainWindow\\Form1.Designer.cs",
+              "ToolTip": "F:\\OPP\\laba9\\MainWindow\\Form1.Designer.cs",
+              "RelativeToolTip": "MainWindow\\Form1.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T16:45:00.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TypeTests.cs",
+              "DocumentMoniker": "F:\\OPP\\laba9\\MatrixTypeTests\\TypeTests.cs",
+              "RelativeDocumentMoniker": "MatrixTypeTests\\TypeTests.cs",
+              "ToolTip": "F:\\OPP\\laba9\\MatrixTypeTests\\TypeTests.cs",
+              "RelativeToolTip": "MatrixTypeTests\\TypeTests.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAuwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T16:42:41.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\OPP\\laba9\\MainWindow\\Form1.cs",
+              "RelativeDocumentMoniker": "MainWindow\\Form1.cs",
+              "ToolTip": "F:\\OPP\\laba9\\MainWindow\\Form1.cs [Design]",
+              "RelativeToolTip": "MainWindow\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T15:28:45.101Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Matrix.cs",
+              "DocumentMoniker": "F:\\OPP\\laba9\\MatrixType\\Matrix.cs",
+              "RelativeDocumentMoniker": "MatrixType\\Matrix.cs",
+              "ToolTip": "F:\\OPP\\laba9\\MatrixType\\Matrix.cs",
+              "RelativeToolTip": "MatrixType\\Matrix.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T15:25:09.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MatrixException.cs",
+              "DocumentMoniker": "F:\\OPP\\laba9\\MatrixExceptions\\MatrixException.cs",
+              "RelativeDocumentMoniker": "MatrixExceptions\\MatrixException.cs",
+              "ToolTip": "F:\\OPP\\laba9\\MatrixExceptions\\MatrixException.cs",
+              "RelativeToolTip": "MatrixExceptions\\MatrixException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T15:26:02.282Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
