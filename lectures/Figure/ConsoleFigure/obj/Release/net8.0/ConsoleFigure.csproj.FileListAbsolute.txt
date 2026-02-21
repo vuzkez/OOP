@@ -1,0 +1,14 @@
+D:\ООП\Лекции\Figure\ConsoleFigure\bin\Release\net8.0\ConsoleFigure.exe
+D:\ООП\Лекции\Figure\ConsoleFigure\bin\Release\net8.0\ConsoleFigure.deps.json
+D:\ООП\Лекции\Figure\ConsoleFigure\bin\Release\net8.0\ConsoleFigure.runtimeconfig.json
+D:\ООП\Лекции\Figure\ConsoleFigure\bin\Release\net8.0\ConsoleFigure.dll
+D:\ООП\Лекции\Figure\ConsoleFigure\bin\Release\net8.0\ConsoleFigure.pdb
+D:\ООП\Лекции\Figure\ConsoleFigure\obj\Release\net8.0\ConsoleFigure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Лекции\Figure\ConsoleFigure\obj\Release\net8.0\ConsoleFigure.AssemblyInfoInputs.cache
+D:\ООП\Лекции\Figure\ConsoleFigure\obj\Release\net8.0\ConsoleFigure.AssemblyInfo.cs
+D:\ООП\Лекции\Figure\ConsoleFigure\obj\Release\net8.0\ConsoleFigure.csproj.CoreCompileInputs.cache
+D:\ООП\Лекции\Figure\ConsoleFigure\obj\Release\net8.0\ConsoleFigure.dll
+D:\ООП\Лекции\Figure\ConsoleFigure\obj\Release\net8.0\refint\ConsoleFigure.dll
+D:\ООП\Лекции\Figure\ConsoleFigure\obj\Release\net8.0\ConsoleFigure.pdb
+D:\ООП\Лекции\Figure\ConsoleFigure\obj\Release\net8.0\ConsoleFigure.genruntimeconfig.cache
+D:\ООП\Лекции\Figure\ConsoleFigure\obj\Release\net8.0\ref\ConsoleFigure.dll

@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\OPP\\laba6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44F229E8-5AA0-4EFC-8A41-82660924039D}|MedicalCardApplication\\MedicalCardApplication.csproj|F:\\OPP\\laba6\\medicalcardapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44F229E8-5AA0-4EFC-8A41-82660924039D}|MedicalCardApplication\\MedicalCardApplication.csproj|solutionrelative:medicalcardapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F229E8-5AA0-4EFC-8A41-82660924039D}|MedicalCardApplication\\MedicalCardApplication.csproj|f:\\opp\\laba6\\medicalcardapplication\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F229E8-5AA0-4EFC-8A41-82660924039D}|MedicalCardApplication\\MedicalCardApplication.csproj|solutionrelative:medicalcardapplication\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A7C29-83F2-4866-82EE-F8CF3F058CC5}|MedicalCardLibrary\\MedicalCardLibrary.csproj|f:\\opp\\laba6\\medicalcardlibrary\\medicalcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A7C29-83F2-4866-82EE-F8CF3F058CC5}|MedicalCardLibrary\\MedicalCardLibrary.csproj|solutionrelative:medicalcardlibrary\\medicalcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F229E8-5AA0-4EFC-8A41-82660924039D}|MedicalCardApplication\\MedicalCardApplication.csproj|F:\\OPP\\laba6\\medicalcardapplication\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44F229E8-5AA0-4EFC-8A41-82660924039D}|MedicalCardApplication\\MedicalCardApplication.csproj|solutionrelative:medicalcardapplication\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F229E8-5AA0-4EFC-8A41-82660924039D}|MedicalCardApplication\\MedicalCardApplication.csproj|F:\\OPP\\laba6\\medicalcardapplication\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44F229E8-5AA0-4EFC-8A41-82660924039D}|MedicalCardApplication\\MedicalCardApplication.csproj|solutionrelative:medicalcardapplication\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A7C29-83F2-4866-82EE-F8CF3F058CC5}|MedicalCardLibrary\\MedicalCardLibrary.csproj|f:\\opp\\laba6\\medicalcardlibrary\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A7C29-83F2-4866-82EE-F8CF3F058CC5}|MedicalCardLibrary\\MedicalCardLibrary.csproj|solutionrelative:medicalcardlibrary\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A7C29-83F2-4866-82EE-F8CF3F058CC5}|MedicalCardLibrary\\MedicalCardLibrary.csproj|f:\\opp\\laba6\\medicalcardlibrary\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A7C29-83F2-4866-82EE-F8CF3F058CC5}|MedicalCardLibrary\\MedicalCardLibrary.csproj|solutionrelative:medicalcardlibrary\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A7C29-83F2-4866-82EE-F8CF3F058CC5}|MedicalCardLibrary\\MedicalCardLibrary.csproj|f:\\opp\\laba6\\medicalcardlibrary\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A7C29-83F2-4866-82EE-F8CF3F058CC5}|MedicalCardLibrary\\MedicalCardLibrary.csproj|solutionrelative:medicalcardlibrary\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A7C29-83F2-4866-82EE-F8CF3F058CC5}|MedicalCardLibrary\\MedicalCardLibrary.csproj|f:\\opp\\laba6\\medicalcardlibrary\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A7C29-83F2-4866-82EE-F8CF3F058CC5}|MedicalCardLibrary\\MedicalCardLibrary.csproj|solutionrelative:medicalcardlibrary\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F229E8-5AA0-4EFC-8A41-82660924039D}|MedicalCardApplication\\MedicalCardApplication.csproj|f:\\opp\\laba6\\medicalcardapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F229E8-5AA0-4EFC-8A41-82660924039D}|MedicalCardApplication\\MedicalCardApplication.csproj|solutionrelative:medicalcardapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F229E8-5AA0-4EFC-8A41-82660924039D}|MedicalCardApplication\\MedicalCardApplication.csproj|f:\\opp\\laba6\\medicalcardapplication\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F229E8-5AA0-4EFC-8A41-82660924039D}|MedicalCardApplication\\MedicalCardApplication.csproj|solutionrelative:medicalcardapplication\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09393064-BC87-4241-8230-340DAFB947B1}|MedicalCardTests\\MedicalCardTests.csproj|f:\\opp\\laba6\\medicalcardtests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09393064-BC87-4241-8230-340DAFB947B1}|MedicalCardTests\\MedicalCardTests.csproj|solutionrelative:medicalcardtests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F229E8-5AA0-4EFC-8A41-82660924039D}|MedicalCardApplication\\MedicalCardApplication.csproj|f:\\opp\\laba6\\medicalcardapplication\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F229E8-5AA0-4EFC-8A41-82660924039D}|MedicalCardApplication\\MedicalCardApplication.csproj|solutionrelative:medicalcardapplication\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F229E8-5AA0-4EFC-8A41-82660924039D}|MedicalCardApplication\\MedicalCardApplication.csproj|f:\\opp\\laba6\\medicalcardapplication\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F229E8-5AA0-4EFC-8A41-82660924039D}|MedicalCardApplication\\MedicalCardApplication.csproj|solutionrelative:medicalcardapplication\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F229E8-5AA0-4EFC-8A41-82660924039D}|MedicalCardApplication\\MedicalCardApplication.csproj|f:\\opp\\laba6\\medicalcardapplication\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F229E8-5AA0-4EFC-8A41-82660924039D}|MedicalCardApplication\\MedicalCardApplication.csproj|solutionrelative:medicalcardapplication\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "F:\\OPP\\laba6\\MedicalCardTests\\Tests.cs",
+              "RelativeDocumentMoniker": "MedicalCardTests\\Tests.cs",
+              "ToolTip": "F:\\OPP\\laba6\\MedicalCardTests\\Tests.cs",
+              "RelativeToolTip": "MedicalCardTests\\Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:44:44.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "F:\\OPP\\laba6\\MedicalCardApplication\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "MedicalCardApplication\\Form3.Designer.cs",
+              "ToolTip": "F:\\OPP\\laba6\\MedicalCardApplication\\Form3.Designer.cs",
+              "RelativeToolTip": "MedicalCardApplication\\Form3.Designer.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwJAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:08:45.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "F:\\OPP\\laba6\\MedicalCardApplication\\Form3.cs",
+              "RelativeDocumentMoniker": "MedicalCardApplication\\Form3.cs",
+              "ToolTip": "F:\\OPP\\laba6\\MedicalCardApplication\\Form3.cs",
+              "RelativeToolTip": "MedicalCardApplication\\Form3.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwEQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:08:33.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\OPP\\laba6\\MedicalCardApplication\\Form3.cs",
+              "RelativeDocumentMoniker": "MedicalCardApplication\\Form3.cs",
+              "ToolTip": "F:\\OPP\\laba6\\MedicalCardApplication\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MedicalCardApplication\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:08:30.935Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "F:\\OPP\\laba6\\MedicalCardApplication\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "MedicalCardApplication\\Form2.Designer.cs",
+              "ToolTip": "F:\\OPP\\laba6\\MedicalCardApplication\\Form2.Designer.cs",
+              "RelativeToolTip": "MedicalCardApplication\\Form2.Designer.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAuwKMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:08:22.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "F:\\OPP\\laba6\\MedicalCardApplication\\Form2.cs",
+              "RelativeDocumentMoniker": "MedicalCardApplication\\Form2.cs",
+              "ToolTip": "F:\\OPP\\laba6\\MedicalCardApplication\\Form2.cs",
+              "RelativeToolTip": "MedicalCardApplication\\Form2.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwD0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:08:00.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\OPP\\laba6\\MedicalCardApplication\\Form2.cs",
+              "RelativeDocumentMoniker": "MedicalCardApplication\\Form2.cs",
+              "ToolTip": "F:\\OPP\\laba6\\MedicalCardApplication\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MedicalCardApplication\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:07:57.564Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\OPP\\laba6\\MedicalCardApplication\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MedicalCardApplication\\Form1.Designer.cs",
+              "ToolTip": "F:\\OPP\\laba6\\MedicalCardApplication\\Form1.Designer.cs",
+              "RelativeToolTip": "MedicalCardApplication\\Form1.Designer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:07:47.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\OPP\\laba6\\MedicalCardApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "MedicalCardApplication\\Form1.cs",
+              "ToolTip": "F:\\OPP\\laba6\\MedicalCardApplication\\Form1.cs",
+              "RelativeToolTip": "MedicalCardApplication\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwv4EAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:07:16.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "F:\\OPP\\laba6\\MedicalCardLibrary\\Doctor.cs",
+              "RelativeDocumentMoniker": "MedicalCardLibrary\\Doctor.cs",
+              "ToolTip": "F:\\OPP\\laba6\\MedicalCardLibrary\\Doctor.cs",
+              "RelativeToolTip": "MedicalCardLibrary\\Doctor.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:07:07.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MedicalCard.cs",
+              "DocumentMoniker": "F:\\OPP\\laba6\\MedicalCardLibrary\\MedicalCard.cs",
+              "RelativeDocumentMoniker": "MedicalCardLibrary\\MedicalCard.cs",
+              "ToolTip": "F:\\OPP\\laba6\\MedicalCardLibrary\\MedicalCard.cs",
+              "RelativeToolTip": "MedicalCardLibrary\\MedicalCard.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwKYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:06:49.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "F:\\OPP\\laba6\\MedicalCardLibrary\\Patient.cs",
+              "RelativeDocumentMoniker": "MedicalCardLibrary\\Patient.cs",
+              "ToolTip": "F:\\OPP\\laba6\\MedicalCardLibrary\\Patient.cs",
+              "RelativeToolTip": "MedicalCardLibrary\\Patient.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:06:31.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Types.cs",
+              "DocumentMoniker": "F:\\OPP\\laba6\\MedicalCardLibrary\\Types.cs",
+              "RelativeDocumentMoniker": "MedicalCardLibrary\\Types.cs",
+              "ToolTip": "F:\\OPP\\laba6\\MedicalCardLibrary\\Types.cs",
+              "RelativeToolTip": "MedicalCardLibrary\\Types.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:06:11.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "F:\\OPP\\laba6\\MedicalCardLibrary\\Appointment.cs",
+              "RelativeDocumentMoniker": "MedicalCardLibrary\\Appointment.cs",
+              "ToolTip": "F:\\OPP\\laba6\\MedicalCardLibrary\\Appointment.cs",
+              "RelativeToolTip": "MedicalCardLibrary\\Appointment.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:05:29.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\OPP\\laba6\\MedicalCardApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "MedicalCardApplication\\Form1.cs",
+              "ToolTip": "F:\\OPP\\laba6\\MedicalCardApplication\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MedicalCardApplication\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:05:04.694Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

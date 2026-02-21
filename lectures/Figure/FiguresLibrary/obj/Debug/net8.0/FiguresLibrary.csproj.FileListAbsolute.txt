@@ -1,0 +1,11 @@
+E:\OPP\lectures\Figure\FiguresLibrary\bin\Debug\net8.0\FiguresLibrary.deps.json
+E:\OPP\lectures\Figure\FiguresLibrary\bin\Debug\net8.0\FiguresLibrary.dll
+E:\OPP\lectures\Figure\FiguresLibrary\bin\Debug\net8.0\FiguresLibrary.pdb
+E:\OPP\lectures\Figure\FiguresLibrary\obj\Debug\net8.0\FiguresLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\OPP\lectures\Figure\FiguresLibrary\obj\Debug\net8.0\FiguresLibrary.AssemblyInfoInputs.cache
+E:\OPP\lectures\Figure\FiguresLibrary\obj\Debug\net8.0\FiguresLibrary.AssemblyInfo.cs
+E:\OPP\lectures\Figure\FiguresLibrary\obj\Debug\net8.0\FiguresLibrary.csproj.CoreCompileInputs.cache
+E:\OPP\lectures\Figure\FiguresLibrary\obj\Debug\net8.0\FiguresLibrary.dll
+E:\OPP\lectures\Figure\FiguresLibrary\obj\Debug\net8.0\refint\FiguresLibrary.dll
+E:\OPP\lectures\Figure\FiguresLibrary\obj\Debug\net8.0\FiguresLibrary.pdb
+E:\OPP\lectures\Figure\FiguresLibrary\obj\Debug\net8.0\ref\FiguresLibrary.dll

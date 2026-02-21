@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MedicalCardLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:MedicalCardLibrary.Appointment">
+            <summary>
+            Представляет запись на прием к врачу
+            </summary>
+        </member>
+        <member name="M:MedicalCardLibrary.Appointment.#ctor(System.DateTime,MedicalCardLibrary.Doctor,MedicalCardLibrary.Patient)">
+            <summary>
+            Инициализирует новый экземпляр класса Appointment
+            </summary>
+            <param name="date">Дата и время приема</param>
+            <param name="doctor">Врач, к которому записан пациент</param>
+            <param name="patient">Пациент, записанный на прием</param>
+        </member>
+        <member name="P:MedicalCardLibrary.Appointment.Doctor">
+            <summary>
+            Получает врача, к которому записан пациент
+            </summary>
+        </member>
+        <member name="P:MedicalCardLibrary.Appointment.Date">
+            <summary>
+            Получает дату приема в формате короткой строки
+            </summary>
+        </member>
+        <member name="P:MedicalCardLibrary.Appointment.Patient">
+            <summary>
+            Получает пациента, записанного на прием
+            </summary>
+        </member>
+        <member name="T:MedicalCardLibrary.Doctor">
+            <summary>
+            Представляет врача медицинского учреждения
+            </summary>
+        </member>
+        <member name="M:MedicalCardLibrary.Doctor.#ctor(System.String,MedicalCardLibrary.DoctorSpecialty)">
+            <summary>
+            Инициализирует новый экземпляр класса Doctor с указанным именем и специальностью
+            </summary>
+            <param name="name">Имя врача</param>
+            <param name="doctorSpecialty">Специальность врача</param>
+        </member>
+        <member name="P:MedicalCardLibrary.Doctor.Name">
+            <summary>
+            Получает имя врача
+            </summary>
+        </member>
+        <member name="P:MedicalCardLibrary.Doctor.DoctorSpecialty">
+            <summary>
+            Получает специальность врача
+            </summary>
+        </member>
+        <member name="T:MedicalCardLibrary.MedicalCard">
+            <summary>
+            Представляет медицинскую карту, содержащую записи о приемах пациента
+            </summary>
+        </member>
+        <member name="F:MedicalCardLibrary.MedicalCard.appointments">
+            <summary>
+            Массив записей на прием в медицинской карте
+            </summary>
+        </member>
+        <member name="M:MedicalCardLibrary.MedicalCard.Add(MedicalCardLibrary.Appointment)">
+            <summary>
+            Добавляет запись о приеме в медицинскую карту
+            </summary>
+            <param name="appointment">Запись на прием для добавления</param>
+        </member>
+        <member name="M:MedicalCardLibrary.MedicalCard.Delete(MedicalCardLibrary.Appointment)">
+            <summary>
+            Удаляет запись о приеме из медицинской карты
+            </summary>
+            <param name="appointment">Запись на прием для удаления</param>
+        </member>
+        <member name="M:MedicalCardLibrary.MedicalCard.GetDoctorsDate(System.String)">
+            <summary>
+            Получает список специальностей врачей, у которых были приемы в указанную дату
+            </summary>
+            <param name="date">Дата для поиска приемов в формате строки</param>
+            <returns>Массив строк, представляющих специальности врачей</returns>
+        </member>
+        <member name="M:MedicalCardLibrary.MedicalCard.GetCountPatientsDoctor(System.String)">
+            <summary>
+            Получает количество пациентов по специальностям врачей за указанную дату
+            </summary>
+            <param name="date">Дата для подсчета пациентов в формате строки</param>
+            <returns>Массив целых чисел с количеством пациентов по специальностям в порядке: кардиолог, стоматолог, психиатр, онколог, дерматолог</returns>
+        </member>
+        <member name="M:MedicalCardLibrary.MedicalCard.GetAveragePatientsPerDay">
+            <summary>
+            Вычисляет среднее количество пациентов в день для каждой специальности врача
+            </summary>
+            <returns>Массив вещественных чисел, содержащий среднее количество пациентов в день по специальностям в порядке: кардиолог, стоматолог, психиатр, онколог, дерматолог</returns>
+        </member>
+        <member name="T:MedicalCardLibrary.Patient">
+            <summary>
+            Представляет пациента медицинского учреждения
+            </summary>
+        </member>
+        <member name="M:MedicalCardLibrary.Patient.#ctor(System.String)">
+            <summary>
+            Инициализирует новый экземпляр класса Patient с указанным именем
+            </summary>
+            <param name="name">Имя пациента</param>
+        </member>
+        <member name="P:MedicalCardLibrary.Patient.Name">
+            <summary>
+            Получает имя пациента
+            </summary>
+        </member>
+        <member name="T:MedicalCardLibrary.DoctorSpecialty">
+            <summary>
+            Перечисление специальностей врачей
+            </summary>
+        </member>
+        <member name="F:MedicalCardLibrary.DoctorSpecialty.cardiologist">
+            <summary>
+            Кардиолог - специалист по заболеваниям сердечно-сосудистой системы
+            </summary>
+        </member>
+        <member name="F:MedicalCardLibrary.DoctorSpecialty.dentist">
+            <summary>
+            Стоматолог - специалист по лечению заболеваний зубов и полости рта
+            </summary>
+        </member>
+        <member name="F:MedicalCardLibrary.DoctorSpecialty.dermatologist">
+            <summary>
+            Дерматолог - специалист по заболеваниям кожи, волос и ногтей
+            </summary>
+        </member>
+        <member name="F:MedicalCardLibrary.DoctorSpecialty.oncologist">
+            <summary>
+            Онколог - специалист по диагностике и лечению опухолевых заболеваний
+            </summary>
+        </member>
+        <member name="F:MedicalCardLibrary.DoctorSpecialty.psychiatrist">
+            <summary>
+            Психиатр - специалист по лечению психических расстройств
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OPP\\lectures\\Figure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F41A262A-0F99-40D6-90E1-4BF84D6307DA}|FiguresLibrary\\FiguresLibrary.csproj|e:\\opp\\lectures\\figure\\figureslibrary\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41A262A-0F99-40D6-90E1-4BF84D6307DA}|FiguresLibrary\\FiguresLibrary.csproj|solutionrelative:figureslibrary\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41A262A-0F99-40D6-90E1-4BF84D6307DA}|FiguresLibrary\\FiguresLibrary.csproj|e:\\opp\\lectures\\figure\\figureslibrary\\typefigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41A262A-0F99-40D6-90E1-4BF84D6307DA}|FiguresLibrary\\FiguresLibrary.csproj|solutionrelative:figureslibrary\\typefigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41A262A-0F99-40D6-90E1-4BF84D6307DA}|FiguresLibrary\\FiguresLibrary.csproj|e:\\opp\\lectures\\figure\\figureslibrary\\quadrant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41A262A-0F99-40D6-90E1-4BF84D6307DA}|FiguresLibrary\\FiguresLibrary.csproj|solutionrelative:figureslibrary\\quadrant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3597FC-6B1B-4564-80B8-B000AFE61A63}|DrawLibrary\\DrawLibrary.csproj|e:\\opp\\lectures\\figure\\drawlibrary\\wfadraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3597FC-6B1B-4564-80B8-B000AFE61A63}|DrawLibrary\\DrawLibrary.csproj|solutionrelative:drawlibrary\\wfadraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3597FC-6B1B-4564-80B8-B000AFE61A63}|DrawLibrary\\DrawLibrary.csproj|e:\\opp\\lectures\\figure\\drawlibrary\\idraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3597FC-6B1B-4564-80B8-B000AFE61A63}|DrawLibrary\\DrawLibrary.csproj|solutionrelative:drawlibrary\\idraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41A262A-0F99-40D6-90E1-4BF84D6307DA}|FiguresLibrary\\FiguresLibrary.csproj|e:\\opp\\lectures\\figure\\figureslibrary\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41A262A-0F99-40D6-90E1-4BF84D6307DA}|FiguresLibrary\\FiguresLibrary.csproj|solutionrelative:figureslibrary\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TypeFigure.cs",
+              "DocumentMoniker": "E:\\OPP\\lectures\\Figure\\FiguresLibrary\\TypeFigure.cs",
+              "RelativeDocumentMoniker": "FiguresLibrary\\TypeFigure.cs",
+              "ToolTip": "E:\\OPP\\lectures\\Figure\\FiguresLibrary\\TypeFigure.cs",
+              "RelativeToolTip": "FiguresLibrary\\TypeFigure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T09:00:31.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WFADraw.cs",
+              "DocumentMoniker": "E:\\OPP\\lectures\\Figure\\DrawLibrary\\WFADraw.cs",
+              "RelativeDocumentMoniker": "DrawLibrary\\WFADraw.cs",
+              "ToolTip": "E:\\OPP\\lectures\\Figure\\DrawLibrary\\WFADraw.cs",
+              "RelativeToolTip": "DrawLibrary\\WFADraw.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T09:12:03.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDraw.cs",
+              "DocumentMoniker": "E:\\OPP\\lectures\\Figure\\DrawLibrary\\IDraw.cs",
+              "RelativeDocumentMoniker": "DrawLibrary\\IDraw.cs",
+              "ToolTip": "E:\\OPP\\lectures\\Figure\\DrawLibrary\\IDraw.cs",
+              "RelativeToolTip": "DrawLibrary\\IDraw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T09:08:00.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "E:\\OPP\\lectures\\Figure\\FiguresLibrary\\Circle.cs",
+              "RelativeDocumentMoniker": "FiguresLibrary\\Circle.cs",
+              "ToolTip": "E:\\OPP\\lectures\\Figure\\FiguresLibrary\\Circle.cs",
+              "RelativeToolTip": "FiguresLibrary\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T09:03:57.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quadrant.cs",
+              "DocumentMoniker": "E:\\OPP\\lectures\\Figure\\FiguresLibrary\\Quadrant.cs",
+              "RelativeDocumentMoniker": "FiguresLibrary\\Quadrant.cs",
+              "ToolTip": "E:\\OPP\\lectures\\Figure\\FiguresLibrary\\Quadrant.cs",
+              "RelativeToolTip": "FiguresLibrary\\Quadrant.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T09:52:00.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "E:\\OPP\\lectures\\Figure\\FiguresLibrary\\Figure.cs",
+              "RelativeDocumentMoniker": "FiguresLibrary\\Figure.cs",
+              "ToolTip": "E:\\OPP\\lectures\\Figure\\FiguresLibrary\\Figure.cs",
+              "RelativeToolTip": "FiguresLibrary\\Figure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T09:46:05.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
